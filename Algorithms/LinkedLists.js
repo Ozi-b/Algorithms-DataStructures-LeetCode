@@ -123,6 +123,7 @@ ll.insertFirst(200);
 ll.insertFirst(300);
 ll.insertLast(400);
 
-ll.clearList();
+//ll.clearList();
 
+ll.removeAt(1);
 ll.printListData();
